@@ -13,6 +13,6 @@ Here is some information about my project, the song "Take care of each other":
 - Recording software: Reaper
 - Plugins used for recording, mixing and mastering
 - Links to social media where you can listen and download the music, as well as a website if available
-- Contact information: email - rzhevskiyma@gmail.com, phone - +79272609072
+
 
 Please note that this README file should be updated as needed.
